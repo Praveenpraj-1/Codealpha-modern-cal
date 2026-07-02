@@ -18,7 +18,7 @@ It performs basic arithmetic operations with a clean UI and smooth user experien
 ## 📂 File Structure
 
 ## 📸 Demo
-Open `index.html` in your browser to use the calculator.  
+Open `index1.html` in your browser to use the calculator.  
 You can also deploy it using **GitHub Pages**, **Netlify**, or **Vercel**.
 
 ## 💡 Future Improvements
